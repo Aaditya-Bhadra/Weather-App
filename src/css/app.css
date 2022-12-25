@@ -1,0 +1,10 @@
+*{
+    font-family: require('https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200..900&display=swaphttps://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200..900&display=swap');
+}
+@media (max-width:900px) {
+    .app{
+        background-size: cover;
+        background: lightblue;
+        color: wheat;
+    }
+}
